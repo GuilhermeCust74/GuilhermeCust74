@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Me chamo Guilherme Augusto Belizario Custodio, tenho 18 anos e sou natural de Londrina. Concluí o ensino médio no Sesc, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar.
+<p align="center">Me chamo GUILHERME AUGUSTO BELIZÁRIO CUSTÓDIO, tenho 18 anos e sou natural de Londrina. Concluí o ensino médio no Sesc, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar.
   
 #
 
